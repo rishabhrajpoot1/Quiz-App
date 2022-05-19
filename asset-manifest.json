@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Timer-App/static/css/main.217c465f.css",
-    "main.js": "/Timer-App/static/js/main.497090eb.js",
-    "index.html": "/Timer-App/index.html",
-    "main.217c465f.css.map": "/Timer-App/static/css/main.217c465f.css.map",
-    "main.497090eb.js.map": "/Timer-App/static/js/main.497090eb.js.map"
+    "main.css": "/Quiz-App/static/css/main.217c465f.css",
+    "main.js": "/Quiz-App/static/js/main.497090eb.js",
+    "index.html": "/Quiz-App/index.html",
+    "main.217c465f.css.map": "/Quiz-App/static/css/main.217c465f.css.map",
+    "main.497090eb.js.map": "/Quiz-App/static/js/main.497090eb.js.map"
   },
   "entrypoints": [
     "static/css/main.217c465f.css",
